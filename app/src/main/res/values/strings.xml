@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntroLogin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="java_title">Khóa học lập trình Java</string>
+    <string name="java_description">Lập trình Java từ cơ bản đến nâng cao. Trong các khóa học các bạn được làm tối thiểu 2 project. Kết thức khóa học các bạn có thể thực tập tại các công ty phần mềm</string>
+</resources>
